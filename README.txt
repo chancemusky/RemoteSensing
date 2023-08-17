@@ -1,1 +1,0 @@
-This is a repository to hold projects showcasing remote sensing and geospatial data analysis skills (beyond GIS projects like those found in the ArcGIS or QGIS repos). This repo includes tutorials and personal projects.
